@@ -1,0 +1,5 @@
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTester\bin\Debug\IntegrationTester.exe.config
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTester\bin\Debug\IntegrationTester.exe
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTester\bin\Debug\IntegrationTester.pdb
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTester\obj\Debug\IntegrationTester.exe
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTester\obj\Debug\IntegrationTester.pdb

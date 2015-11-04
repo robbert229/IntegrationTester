@@ -1,0 +1,8 @@
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTesterTests\bin\Debug\IntegrationTesterTests.dll
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTesterTests\bin\Debug\IntegrationTesterTests.pdb
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTesterTests\bin\Debug\IntegrationTester.exe
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTesterTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTesterTests\bin\Debug\IntegrationTester.pdb
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTesterTests\obj\Debug\IntegrationTesterTests.csprojResolveAssemblyReference.cache
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTesterTests\obj\Debug\IntegrationTesterTests.dll
+c:\users\visualstudio\documents\visual studio 2015\Projects\IntegrationTester\IntegrationTesterTests\obj\Debug\IntegrationTesterTests.pdb
